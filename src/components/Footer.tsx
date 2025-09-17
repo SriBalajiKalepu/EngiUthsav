@@ -148,16 +148,6 @@ export const Footer = () => {
             <div className="flex items-center space-x-2 text-muted-foreground animate-fade-in-up">
               <span>© {currentYear} BVC College of Engineering. All rights reserved.</span>
             </div>
-            
-            <div className="flex items-center space-x-2 text-muted-foreground animate-fade-in-up">
-              <span>Made with</span>
-              <Heart className="w-4 h-4 text-red-500 animate-pulse" />
-              <span>for engineering excellence</span>
-            </div>
-            
-            <div className="flex items-center space-x-2 text-primary animate-fade-in-up">
-              <span className="text-sm font-medium">Theme: Engineers for the Society</span>
-            </div>
           </div>
         </div>
       </div>
